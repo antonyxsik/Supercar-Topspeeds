@@ -49,6 +49,10 @@ ggplot(df2,aes(year, top_speed_mph, color = Make)) + geom_point(size = 2) +
 #added parameters that the data set did not have for each car (ex: frontal area, drag coef)
 #write.csv(fast_temp, "C:\\Users\\anton\\Desktop\\ModFastData.csv", row.names = FALSE)
 
+
+#NOTE: FinalFastMode is also here on github, except the changes with the chi square and predicted values have 
+# already been made, so it might make sense to delete the last three columns when running this code. 
+
 fast <- read.csv("FinalFastMod.csv")
 names(fast)[13] <- 'Make'
 
