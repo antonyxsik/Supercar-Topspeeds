@@ -14,6 +14,7 @@ library(growthcurver)
 
 
 #Loading in and filtering original dataset
+#NOTE: ModAllData is identical to supercardata.txt and is uploaded here on github
 df <- read.delim("supercardata.txt", sep = ",")
 cleaned = df[c(1,2,4,6,9,12, 15)]
 
