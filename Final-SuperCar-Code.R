@@ -1,4 +1,3 @@
-#Math 111A Theoretical Hypercar Top Speed Project, UCSD Fall 2021
 #Author: Antony Sikorski
 
 #Installing packages, calling necessary libraries
