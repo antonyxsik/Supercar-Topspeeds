@@ -10,4 +10,4 @@ Project contents in order:
 * Choose best components within reason from each car to create a hypothetical "ideal supercar" using today's technology. 
 * Simulate top speed runs of the ideal supercar with a few different conditions.  
 * Use logistic regression to calculate the years in which we can expect to see these top speeds achieved assuming we use similar technology (combustion engines, similar aerodynamics, etc). 
-* Use linear regression to do the same as above. 
+* Use linear regression to do the same as above.
