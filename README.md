@@ -1,5 +1,5 @@
 # Supercar-Topspeeds
-A quick project on calculating and predicting supercar top speeds using today's automotive technology. 
+A quick project I did during my undergrad at UCSD on calculating and predicting supercar top speeds using today's automotive technology. 
 
 In this project, I use a car top speed dataset from Kaggle, and supplement it with the top speeds of modern supercars that the dataset was missing. 
 
